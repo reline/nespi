@@ -1,0 +1,10 @@
+ar vx mypackage.deb # extract from DEB file
+tar -xzvf data.tar.gz # extract contents of data.tar.gz
+tar -tzvf data.tar.gz # OR get listing of files in data.tar.gz
+
+# FINISHED
+# dev
+# doc
+# bootloader
+# bin 
+# 0
