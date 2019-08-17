@@ -1,0 +1,3 @@
+[submodule "nestopia"]
+	path = nestopia
+	url = https://github.com/reline/nestopia
