@@ -5,4 +5,4 @@ The NESpi allows the user run Nintendo Entertainment System ROMs portably.
 ### OS
 [ArchLinux](https://www.archlinux.org/ "archlinux")
 ### Emulator
-[nestopia](http://nestopia.sourceforge.net/ "nestopia")
+[nestopia](https://github.com/libretro/nestopia "nestopia")
